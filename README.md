@@ -123,7 +123,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AlaAkrichi/AlaAkrichi/output/snake.svg" alt="Snake animation" />
 
 ###
 
